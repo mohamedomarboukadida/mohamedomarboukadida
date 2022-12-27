@@ -26,7 +26,7 @@
 
 
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedomarboukadida&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedomarboukadida&hide_border=true&layout=compact" align="center" /></div>  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedomarboukadida&show_icons=true&locale=en" alt="mohamedomarboukadida" /></p>
 
