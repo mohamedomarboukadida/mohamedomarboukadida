@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedomarboukadida&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedomarboukadida" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedomarboukadida" alt="mohamedomarboukadida" /></a> </p>
-<img align="right" alt="Coding" width="200" src="https://institute.careerguide.com/wp-content/uploads/2020/09/focus-animation_bcba3d519ff8406664b93fe49a8fa2e8.gif"
+<img align="middle" alt="Coding" width="200" src="https://institute.careerguide.com/wp-content/uploads/2020/09/focus-animation_bcba3d519ff8406664b93fe49a8fa2e8.gif"
 - 📫 How to reach me **mohamedomar.boukadida@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
