@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Omar Boukadida</h1>
 <h3 align="center">A Programmer</h3>
-<img align="right" alt="Coding" width="300" src="https://institute.careerguide.com/wp-content/uploads/2020/09/focus-animation_bcba3d519ff8406664b93fe49a8fa2e8.gif"
+<img align="right" alt="Coding" width="600" src="https://institute.careerguide.com/wp-content/uploads/2020/09/focus-animation_bcba3d519ff8406664b93fe49a8fa2e8.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedomarboukadida&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedomarboukadida" /> </p>
 
