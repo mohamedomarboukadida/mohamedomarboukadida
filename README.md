@@ -4,7 +4,7 @@
 <h3 align="center">A Programmer</h3>
 <img align="center" alt="Coding" width="320" src="https://institute.careerguide.com/wp-content/uploads/2020/09/focus-animation_bcba3d519ff8406664b93fe49a8fa2e8.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedomarboukadida&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedomarboukadida" /> </p>
+
 
 - 📫 How to reach me **mohamedomar.boukadida@gmail.com**
 
@@ -21,38 +21,16 @@
 
 
 ## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedomarboukadida&hide_border=true&layout=compact" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedomarboukadida&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedomarboukadida&show_icons=true&locale=en&layout=compact" alt="mohamedomarboukadida" /></p>
 
-<br/>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedomarboukadida&show_icons=true&locale=en" alt="mohamedomarboukadida" /></p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedomarboukadida" alt="mohamedomarboukadida" /></a> </p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedomarboukadida&" alt="mohamedomarboukadida" /></p>
 
-
-<div align="center">
-</div>  
- 
- <br/>  
-
-
-<br/> 
-
-
-<br/>  
-
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=mohamedomarboukadida&&style=flat-square)  
-  
-
-<br/>  
-
-
-
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedomarboukadida&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedomarboukadida" /> </p>
 
 
 
