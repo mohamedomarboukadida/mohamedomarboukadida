@@ -43,3 +43,13 @@
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedomarboukadida" alt="mohamedomarboukadida" /></a>
 </p>
+
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
+#### Thanks for visiting :heart:
+
+
+
+
+
