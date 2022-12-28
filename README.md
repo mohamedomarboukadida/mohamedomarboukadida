@@ -41,9 +41,4 @@
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!--   grid-snake -->
-![](https://github.com/mohamedomarboukadida/mohamedomarboukadida/blob/output/github-contribution-grid-snake.svg)
 
-<!--   skyline 
-<a href="https://skyline.github.com/mohamedomarboukadida/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
