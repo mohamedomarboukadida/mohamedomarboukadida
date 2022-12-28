@@ -48,6 +48,10 @@
 
 #### Thanks for visiting :heart:
 <p align="center"> 
+  
+### Profile Views
+![](https://count.getloli.com/get/@BEPb.github.readme)
+</br>
 <img src="https://profile-counter.glitch.me/mohamedomarboukadida/count.svg"> 
 
 
