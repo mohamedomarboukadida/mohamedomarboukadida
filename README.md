@@ -4,7 +4,6 @@
 
 
 <h3 align="center"></h3>
-<img align="center" alt="Coding" width="320" src="https://institute.careerguide.com/wp-content/uploads/2020/09/focus-animation_bcba3d519ff8406664b93fe49a8fa2e8.gif"
 
 
 - 📫 How to reach me **mohamedomar.boukadida@gmail.com**
@@ -50,7 +49,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedomarboukadida&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedomarboukadida" /> </p>
 
 
+<!-- <div align="center">
 
+[![Watch the video]([https://i.pinimg.com/originals/d1/53/f0/d153f06b1496b168f2386b4e8290497d.gif](https://institute.careerguide.com/wp-content/uploads/2020/09/focus-animation_bcba3d519ff8406664b93fe49a8fa2e8.gif))]
+
+</div> -->
+
+<div align="center">
+
+[![Watch the video]([https://i.pinimg.com/originals/d1/53/f0/d153f06b1496b168f2386b4e8290497d.gif](https://institute.careerguide.com/wp-content/uploads/2020/09/focus-animation_bcba3d519ff8406664b93fe49a8fa2e8.gif))]
+</div>
 
 
 
