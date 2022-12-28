@@ -5,7 +5,6 @@
 <img align="center" alt="Coding" width="320" src="https://institute.careerguide.com/wp-content/uploads/2020/09/focus-animation_bcba3d519ff8406664b93fe49a8fa2e8.gif"
 
 
-
 - 📫 How to reach me **mohamedomar.boukadida@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
