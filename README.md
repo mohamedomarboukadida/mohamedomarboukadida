@@ -2,9 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=4000&pause=1000&color=5B4EFF&background=FF000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Omar+Boukadida;Always+learning+new+things;Machine+learning+enthusiast;Welcome+to+my+profile+!)](https://git.io/typing-svg)
 
+<h3 align="center">A Programmer</h3>
+<img align="center" alt="Coding" width="320" src="https://institute.careerguide.com/wp-content/uploads/2020/09/focus-animation_bcba3d519ff8406664b93fe49a8fa2e8.gif"
 
-<h3 align="center"></h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedomarboukadida&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedomarboukadida" /> </p>
 
 - 📫 How to reach me **mohamedomar.boukadida@gmail.com**
 
@@ -27,43 +28,3 @@
   </a>
 </p> -->
 </br>
-
-
-
-## Github Stats  
-
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer"> 
-<img  src="https://github-readme-stats.vercel.app/api?username= mohamedomarboukadida &&show_icons=true&theme=radical&locale=en&count_private=true&hide=stars,prs" style="box-shadow: 0 0 20px 0 #d83b7d;"/>
-  </a>
-  </p>
-</br>
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedomarboukadida" alt="mohamedomarboukadida" /></a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedomarboukadida&" alt="mohamedomarboukadida" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedomarboukadida&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedomarboukadida" /> </p>
-
-
-<!-- <div align="center">
-
-[![Watch the video]([https://i.pinimg.com/originals/d1/53/f0/d153f06b1496b168f2386b4e8290497d.gif](https://institute.careerguide.com/wp-content/uploads/2020/09/focus-animation_bcba3d519ff8406664b93fe49a8fa2e8.gif))]
-
-</div> -->
-
-<div align="center">
-
-[![Watch the video]([https://i.pinimg.com/originals/d1/53/f0/d153f06b1496b168f2386b4e8290497d.gif](https://institute.careerguide.com/wp-content/uploads/2020/09/focus-animation_bcba3d519ff8406664b93fe49a8fa2e8.gif))]
-</div>
-
-
-
-
-
-
-
-
