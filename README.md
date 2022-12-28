@@ -47,7 +47,8 @@
 
 
 #### Thanks for visiting :heart:
-
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/mohamedomarboukadida/count.svg"> 
 
 
 
