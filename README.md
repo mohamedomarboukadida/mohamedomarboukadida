@@ -48,7 +48,9 @@
 
 ### Profile Views
 
-
+![](https://count.getloli.com/get/@mohamedomarboukadida.github.readme)
+</br>
+<img src="https://profile-counter.glitch.me/mohamedomarboukadida/count.svg"> 
 
 
 
