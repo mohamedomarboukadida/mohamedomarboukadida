@@ -30,11 +30,20 @@
 </br>
 ## 🔧 Stats
 
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer"> 
-<img  src="https://github-readme-stats.vercel.app/api?username= mohamedomarboukadida &&show_icons=true&theme=radical&locale=en&count_private=true&hide=stars,prs" style="box-shadow: 0 0 20px 0 #d83b7d;"/>
-  </a>
-  </p>
-</br>
+[![mohamedomarboukadida's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohamedomarboukadida&theme=github-compact)](https://github.com/mohamedomarboukadida/github-readme-activity-graph)
 
-</br>
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![mohamedomarboukadida's github stats](https://github-readme-stats.vercel.app/api?username=mohamedomarboukadida&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedomarboukadida&theme=radical&layout=compact) |
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedomarboukadida"></img>
+
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!--   grid-snake -->
+![](https://github.com/mohamedomarboukadida/mohamedomarboukadida/blob/output/github-contribution-grid-snake.svg)
+
+<!--   skyline 
+<a href="https://skyline.github.com/mohamedomarboukadida/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
+-->
