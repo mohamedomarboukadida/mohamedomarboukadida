@@ -19,11 +19,11 @@
 
 </br>
 
-![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,laravel,c,cpp,django,mysql,linux,bash,py,pytorch,qt,tensorflow,raspberrypi,arduino,blender,figma,xd,ai,ps,ableton&theme=dark&perline=15)
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel,c,cpp,django,mysql,linux,bash,py,pytorch,qt,tensorflow,raspberrypi,arduino,blender,figma,xd,ai,ps,ableton&theme=dark&perline=15)
 
 <!-- <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,laravel,c,cpp,django,mysql,linux,bash,py,pytorch,qt,tensorflow,raspberrypi,arduino,blender,figma,xd,ai,ps,ableton&theme=dark&perline=15" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel,c,cpp,django,mysql,linux,bash,py,pytorch,qt,tensorflow,raspberrypi,arduino,blender,figma,xd,ai,ps,ableton&theme=dark&perline=15" />
   </a>
 </p> -->
 </br>
