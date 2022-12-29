@@ -27,7 +27,7 @@
   </a>
 </p> -->
 </br>
-## 🔧 Stats
+ 🔧 Stats
 
 [![mohamedomarboukadida's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohamedomarboukadida&theme=github-compact)](https://github.com/mohamedomarboukadida/github-readme-activity-graph)
 
