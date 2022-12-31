@@ -33,7 +33,8 @@
 [![mohamedomarboukadida's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohamedomarboukadida&theme=github-compact)](https://github.com/mohamedomarboukadida/github-readme-activity-graph)
 
 
-![mohamedomarboukadida's github stats](https://github-readme-stats.vercel.app/api?username=mohamedomarboukadida&show_icons=true&theme=radical&include_all_commits=true) 
+![mohamedomarboukadida's github stats](https://github-readme-stats.vercel.app/api?username=mohamedomarboukadida&show_icons=true&theme=radical)
+                                  
 
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedomarboukadida&theme=radical&layout=compact) 
                
