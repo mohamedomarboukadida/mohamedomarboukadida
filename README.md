@@ -35,7 +35,7 @@
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![mohamedomarboukadida's github stats](https://github-readme-stats.vercel.app/api?username=mohamedomarboukadida&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedomarboukadida&theme=radical&layout=compact) |
-<img src="[https://github-readme-streak-stats.herokuapp.com/?user=mohamedomarboukadida](https://github-readme-stats.vercel.app/api?username=surya2697&show_icons=true&theme=dracula)"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=surya2697&show_icons=true&theme=dracula"></img>
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
