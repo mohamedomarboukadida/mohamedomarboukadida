@@ -34,8 +34,13 @@
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![mohamedomarboukadida's github stats](https://github-readme-stats.vercel.app/api?username=mohamedomarboukadida&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedomarboukadida&theme=radical&layout=compact) |
+| ![mohamedomarboukadida's github stats]() |
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedomarboukadida&theme=radical&layout=compact) |
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedomarboukadida&theme=radical"></img> |   <img src="https://github-readme-stats.vercel.app/api?username=mohamedomarboukadida&show_icons=true&theme=radical&include_all_commits=true"></img>
+   <img src="https://github-readme-stats.vercel.app/api?username=mohamedomarboukadida&show_icons=true&theme=radical&include_all_commits=true"></img>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedomarboukadida&theme=radical"></img>
+
+
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
