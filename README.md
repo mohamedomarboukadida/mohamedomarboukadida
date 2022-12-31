@@ -34,8 +34,7 @@
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![mohamedomarboukadida's github stats]
-| ![Quiec's github stats] |
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedomarboukadida&theme=radical"></img> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedomarboukadida&theme=radical&layout=compact"></img>
 <img src="https://github-readme-stats.vercel.app/api?username=mohamedomarboukadida&show_icons=true&theme=radical"></img> |
 
