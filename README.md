@@ -33,11 +33,14 @@
 [![mohamedomarboukadida's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohamedomarboukadida&theme=github-compact)](https://github.com/mohamedomarboukadida/github-readme-activity-graph)
 
 
-![mohamedomarboukadida's github stats](https://github-readme-stats.vercel.app/api?username=mohamedomarboukadida&show_icons=true&theme=radical&include_all_commits=true) ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedomarboukadida&theme=radical&layout=compact) 
+![mohamedomarboukadida's github stats](https://github-readme-stats.vercel.app/api?username=mohamedomarboukadida&show_icons=true&theme=radical&include_all_commits=true) 
+
+   ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedomarboukadida&theme=radical&layout=compact) 
+               
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedomarboukadida&theme=radical"></img>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedomarboukadida&show_icons=true&theme=radical&include_all_commits=true"></img>
+
 
 
 
