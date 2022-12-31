@@ -47,7 +47,7 @@
 
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedomarboukadida&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedomarboukadida&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"/>
 
 </p>
 
