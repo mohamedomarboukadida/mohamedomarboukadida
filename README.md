@@ -43,7 +43,7 @@
 
 
 <p align="center"> 
-<a href="https://github-readme-stats.vercel.app/api/top-langs"><<img src=https://github-readme-stats.vercel.app/api/top-langs/?user=mohamedomarboukadida&theme=radical&layout=compact" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs"><<img src=https://github-readme-stats.vercel.app/api/top-langs/?user=mohamedomarboukadida"
 alt="mohamedomarboukadida" /></a>
 </p>
 
