@@ -32,53 +32,16 @@
 
 [![mohamedomarboukadida's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohamedomarboukadida&theme=github-compact)](https://github.com/mohamedomarboukadida/github-readme-activity-graph)
 
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![mohamedomarboukadida's github stats](https://github-readme-stats.vercel.app/api?username=mohamedomarboukadida&show_icons=true&theme=radical) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedomarboukadida&theme=radical&layout=compact) |
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedomarboukadida"></img>
 
-![mohamedomarboukadida's github stats](https://github-readme-stats.vercel.app/api?username=mohamedomarboukadida&show_icons=true&theme=radical)
-                                  
-
-![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedomarboukadida&theme=radical&layout=compact) 
-               
-
-
-
-
-
-
-
-<p align="right"> 
-<a href="https://github-readme-streak-stats.herokuapp.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedomarboukadida&theme=radical" 
-alt="mohamedomarboukadida" /></a>
-</p>
 
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedomarboukadida&theme=radical" alt="mohamedomarboukadida" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedomarboukadida&theme=radical" alt="mohamedomarboukadida" /></a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-<div display="flex">
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=mohamedomarboukadida&theme=tokyonight&border_radius=10"  />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mohamedomarboukadida&show_icons=true&theme=tokyonight&border_radus=10"/>
-</div>
-  
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedomarboukadida&show_icons=true&locale=en&layout=compact" >
-</div>
-
-
-
-
-
 
 
 
