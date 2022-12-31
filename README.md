@@ -61,6 +61,26 @@ alt="mohamedomarboukadida" /></a>
 
 
 
+
+
+
+
+<div display="flex">
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=mohamedomarboukadida&theme=tokyonight&border_radius=10"  />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mohamedomarboukadida&show_icons=true&theme=tokyonight&border_radus=10"/>
+</div>
+  
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedomarboukadida&show_icons=true&locale=en&layout=compact" >
+</div>
+
+
+
+
+
+
+
+
 ### Profile Views
 
 ![](https://count.getloli.com/get/@mohamedomarboukadida.github.readme)
