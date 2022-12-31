@@ -38,6 +38,17 @@
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedomarboukadida&theme=radical&layout=compact) 
                
 
+
+
+
+
+<p align="center"> 
+<a href="https://github-readme-stats.vercel.app/api/top-langs"><![Quiec's github stats](<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedomarboukadida&theme=radical&layout=compact)"   /></a>
+alt="mohamedomarboukadida" /></a>
+</p>
+
+
+
 <p align="right"> 
 <a href="https://github-readme-streak-stats.herokuapp.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedomarboukadida&theme=radical" 
 alt="mohamedomarboukadida" /></a>
