@@ -42,11 +42,6 @@
 
 
 
-<p align="center"> 
-<a href="https://github-readme-stats.vercel.app"><img src=https://github-readme-stats.vercel.app/api/top-langs/?user=mohamedomarboukadida&theme=radical"
-alt="mohamedomarboukadida" /></a>
-</p>
-
 
 
 <p align="right"> 
