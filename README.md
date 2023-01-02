@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=4000&pause=1000&color=5B4EFF&background=FF000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Omar+Boukadida;Always+learning+new+things;Machine+learning+enthusiast;Welcome+to+my+profile+!)](https://git.io/typing-svg)
 
-<h3 align="center"></h3>
+<h3 align="right"></h3>
 <img align="center" alt="Coding" width="500" src="https://institute.careerguide.com/wp-content/uploads/2020/09/focus-animation_bcba3d519ff8406664b93fe49a8fa2e8.gif"
 
 
