@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=4000&pause=1000&color=5B4EFF&background=FF000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Omar+Boukadida;Always+learning+new+things;Machine+learning+enthusiast;Welcome+to+my+profile+!)](https://git.io/typing-svg)
 
 <h3 align="right"></h3>
-<img align="right" alt="Coding" width="300" src="https://institute.careerguide.com/wp-content/uploads/2020/09/focus-animation_bcba3d519ff8406664b93fe49a8fa2e8.gif"
+<img align="right" alt="Coding" width="500" src="https://institute.careerguide.com/wp-content/uploads/2020/09/focus-animation_bcba3d519ff8406664b93fe49a8fa2e8.gif"
 
 
 - 📫 How to reach me **mohamedomar.boukadida@gmail.com**
@@ -14,6 +14,11 @@
 <a href="https://linkedin.com/in/boukadida-mohamed-omar-6ba3b21b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/boukadida-mohamed-omar-6ba3b21b5" height="30" width="40" /></a>
 <a href="https://instagram.com/mohamed_omar_boukadida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed_omar_boukadida" height="30" width="40" /></a>
 </p>
+
+
+
+
+
 
 ## 🔧 My Skills
 
