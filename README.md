@@ -33,11 +33,11 @@
 
 </br>
 
-![skills](https://skillicons.dev/icons?i=html,css,php,laravel,c,cpp,mysql,django,mysql,linux,bash,py,pytorch,qt,tensorflow,raspberrypi,arduino,blender,figma,xd,ai,ps,&theme=dark&perline=15)
+![skills](https://skillicons.dev/icons?i=html,css,php,laravel,c,cpp,mysql,django,linux,bash,py,pytorch,qt,tensorflow,raspberrypi,arduino,blender,figma,xd,ai,ps,&theme=dark&perline=15)
 
 <!-- <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,php,laravel,c,cpp,mysql,django,mysql,linux,bash,py,pytorch,qt,tensorflow,raspberrypi,arduino,blender,figma,xd,ai,ps,&theme=dark&perline=15" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,laravel,c,cpp,mysql,django,linux,bash,py,pytorch,qt,tensorflow,raspberrypi,arduino,blender,figma,xd,ai,ps,&theme=dark&perline=15" />
   </a>
 </p> -->
 </br>
