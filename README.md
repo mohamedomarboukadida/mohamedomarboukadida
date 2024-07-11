@@ -10,7 +10,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
  
 <table width="100" align='center'>
