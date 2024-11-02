@@ -45,9 +45,7 @@
 <p align="center">
     <img src="https://count.getloli.com/@mohamedomarboukadida?name=mycounter&theme=random&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Profile Views">
 </p>
-<p align="center">
-    <img src="https://profile-counter.glitch.me/mohamedomarboukadida/count.svg" alt="Visitor Count">
-</p>
+
 
 #### Thanks for visiting! ❤️
 
