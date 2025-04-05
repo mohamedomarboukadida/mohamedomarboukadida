@@ -27,7 +27,7 @@
 
 </br>
 
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=c,cpp,py,pytorch,tensorflow,flask,mysql,django,linux,bash,qt,raspberrypi,arduino,html,css,php,blender,figma,xd,ai,ps&theme=dark&perline=15" alt="Skill Icons"/> </a> </p> 
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=c,cpp,py,pytorch,tensorflow,matlab,flask,mysql,django,linux,bash,qt,ros,raspberrypi,arduino,html,css,php,blender,figma,xd,ai,ps&theme=dark&perline=15" alt="Skill Icons"/> </a> </p> 
 
 
 </br>
@@ -43,7 +43,7 @@
 </br>
 
 <p align="center">
-    <img src="https://count.getloli.com/@mohamedomarboukadida?name=mycounter&theme=random&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Profile Views">
+    <img src="https://count.getloli.com/@mohamedomarboukadida?name=mycounter&theme=minecraft&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Profile Views">
 </p>
 
 
