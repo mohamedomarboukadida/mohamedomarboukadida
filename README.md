@@ -1,67 +1,38 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00D9FF&background=FF000000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Omar+Boukadida;Specializing+in+Robotics+%26+Embedded+AI;Passionate+About+Autonomous+Systems" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">Hi 👋, I'm Mohamed Omar Boukadida</h1>
 
-<p align="center">
-  <img alt="Coding Animation" width="450" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
-</p>
-
-- 🔬 I'm currently working on **autonomous robotics & embedded AI systems**
-  
-- 🤝 I'm looking to collaborate on **Robotics, Embedded AI, and Autonomous Systems Research**
-  
+## About Me
+- 🔬 I'm currently working on: autonomous robotics, RTL/FPGA design, and embedded AI acceleration.
+- 🤝 I'm looking to collaborate on: Robotics, Hardware-Software Co-design, and Autonomous Systems R&D.
 - 📫 Reach me at **mohamedomar.boukadida@gmail.com**
 
-<br/>
+<br clear="left"/>
 
-## 🌐 Connect with me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedomarboukadida&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedomarboukadida" /> </p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="mailto:mohamedomar.boukadida@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email Icon">
-      </a>
-      <p>Email</p>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/mohamed-omar-boukadida/">
-        <img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="40" alt="LinkedIn Icon">
-      </a>
-      <p>LinkedIn</p>
-    </td>
-  </tr>
-</table>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mohamed-omar-boukadida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-omar-boukadida" height="30" width="40" /></a>
+</p>
 
-## 🛠️ Skills:
-
+<h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
-  <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,pytorch,tensorflow,opencv,matlab,flask,mysql,linux,bash,qt,ros,raspberrypi,arduino,html,css,php,blender,figma,ai,ps&theme=dark&perline=11" alt="Skill Icons"/> 
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,bash,assembly,ros,opencv,pytorch,tensorflow,sklearn,scipy,numpy,matlab,raspberrypi,arduino,linux,git,cmake,qt,flask,django,mysql&theme=dark&perline=12" alt="Skill Icons"/> 
   </a> 
-</p> 
-
-<br/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedomarboukadida&theme=radical&layout=compact" alt="Top Languages">
-</p>
-<br/>
-
-## 👀 Profile Views
-
-<p align="center">
-    <img src="https://count.getloli.com/@mohamedomarboukadida?name=mycounter&theme=minecraft&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Profile Views">
 </p>
 
-<br/>
+<h3 align="left">GitHub Stats:</h3>
+
+<p align="left">
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mohamedomarboukadida&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedomarboukadida&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+<br clear="left"/>
 
 ---
 
 <p align="center">
   Thanks for visiting! Feel free to reach out for collaboration opportunities. ❤️
 </p>
+
