@@ -1,16 +1,16 @@
-## Hi there 👋
+  <h1 align="center">Hi 👋, I'm Mohamed Omar Boukadida</h1>
+  
+  ## About Me
+  - Electrical Engineering & Embedded Systems graduate with hands-on experience across real-time systems, robotics, and hardware-close engineering.
+  - Interested in roles across embedded systems, robotics, automotive systems, aerospace, and R&D.
+  - Reach me at **mohamedomar.boukadida@gmail.com**  
+  
+  --- 
+  
+  
+  <p align="center">
+    Thanks for visiting! Feel free to reach out for collaboration opportunities. 
+  </p>
 
-<!--
-**mohamedomarboukadida/mohamedomarboukadida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedomarboukadida&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedomarboukadida" /> </p>
+  
